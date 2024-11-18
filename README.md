@@ -1,9 +1,9 @@
-Hi there, I'm MasterLua 👋
+Hi there, I'm Ritte 👋
 
 🔭 I’m currently working in Lua,C#,Java
 
-🌱 I’m currently learning Ruby, HTML/CSS 🤣
+🌱 I’m currently HTML/CSS 🤣
 
 Connect with me:
-FreeCashHub#2137
+rittecode
 
